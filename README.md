@@ -1,4 +1,4 @@
 # hello-world
 Getting started with GitHub, following the instructions at https://guides.github.com/activities/hello-world/ 
 
-Write a bit about yourself.
+The instructions said, "Write a bit about yourself."
